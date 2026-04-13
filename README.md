@@ -51,6 +51,6 @@ FEATURES:
 ![alt text](PIC5.jpeg)
 
 
-This project report was submitted at Iqbal University as part of the Sunstone academic program.
+This project report was submitted at Rayat Bahra University as part of the Sunstone academic program.
 
 
